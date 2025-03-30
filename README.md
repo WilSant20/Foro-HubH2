@@ -6,7 +6,7 @@
 
 
 ## ℹ️ Project Description ℹ️
-Foro-HubH2 is a Rest Api, applying Hexagonal architecture, wich performs CRUD operations, it's planned to add a webFux model to get high data 
+A challenge, applying Hexagonal architecture, wich performs CRUD operations, it's planned to add a webFux model to get high data 
 handling capability.
 
 ## 🏗️ Project Status
